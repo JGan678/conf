@@ -1,0 +1,28 @@
+! Title: JGan678/conf
+! Homepage: https://github.com/JGan678/conf/discussions
+
+! Misc
+
+masiro.me###totop
+
+! Tencent
+
+v.qq.com###ssi-footer
+
+ke.qq.com###loki-player > txpdiv
+ke.qq.com###marquee > span
+
+! Bilibili
+
+bilibili.com##div.bili-footer
+manga.bilibili.com##footer
+
+bilibili.com##div.bili-header > div:first-child > ul:first-child > li:nth-child(1n+2)
+space.bilibili.com###internationalHeader > div > div > div:first-child > ul:first-child > li:nth-child(1n+2)
+
+bilibili.com##div.bili-header > div:first-child > ul:last-child > li:nth-child(2)
+space.bilibili.com###internationalHeader > div > div > div:last-child > :nth-child(2) > :nth-child(2)
+
+! CSDN
+
+blog.csdn.net###csdn-toolbar > div:first-child
